@@ -1,5 +1,5 @@
-# to-do-firebase
-Projeto de lista de itens utilizando React Native, TypeScript, Styled components, Firebase.
+# Shoppring List
+Projeto de lista de compras utilizando React Native, TypeScript, Styled components, Firebase.
 
 Metodos utilizados: 
 

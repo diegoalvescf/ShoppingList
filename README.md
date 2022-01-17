@@ -1,5 +1,5 @@
 # to-do-firebase
-Projeto to do utilizando firebase, TypeScript, React Native, Styled components.
+Projeto de lista de itens utilizando React Native, TypeScript, Styled components, Firebase.
 
 Metodos utilizados: 
 

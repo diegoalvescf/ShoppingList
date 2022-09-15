@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">809922891283-chq83gdhbarm2j89tfbi2ghchuvjttkj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">809922891283</string>
+    <string name="google_api_key" translatable="false">AIzaSyBu6VDu1Jog3HGJ_nEurjugcNgpLwuQrbo</string>
+    <string name="google_app_id" translatable="false">1:809922891283:android:a93241f8d4b7f73fa2b9e6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBu6VDu1Jog3HGJ_nEurjugcNgpLwuQrbo</string>
+    <string name="google_storage_bucket" translatable="false">shoppinglist-d74d8.appspot.com</string>
+    <string name="project_id" translatable="false">shoppinglist-d74d8</string>
+</resources>
